@@ -22,7 +22,7 @@ Apabila anda salah menginputkan username atau password admin, maka anda tidak da
 ![carbon (49)](https://github.com/athiraafm/Postest2/assets/144832817/a5068532-b39e-41d0-8207-bbb85deb2a66)
 
 Jika anda berhasil login sebagai admin maka akan muncul menu admin yang bisa kita pilih, dan jika anda memilih pilihan 1,
-output yang keluar adalah tampilan daftar menu.
+output yang keluar adalah tampilan daftar menu. Tampilan daftar menu disini berupa table yang menggunakan PrettyTable
 
 ![carbon (40)](https://github.com/athiraafm/Postest2/assets/144832817/577a4c3a-8eb2-41f5-a21d-b1c841439566)
 
